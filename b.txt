@@ -1,1 +1,2 @@
 push to GitHub
+Creating a new Git branch is quick.
