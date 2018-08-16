@@ -1,3 +1,3 @@
 push to GitHub
 Creating a new Git branch is quick.
-合并分支往往也不是一帆风顺。
+人生不如意之事十有八九，合并分支往往也不是一帆风顺。
