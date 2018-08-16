@@ -1,2 +1,3 @@
 push to GitHub
 Creating a new Git branch is quick.
+合并分支往往也不是一帆风顺。
